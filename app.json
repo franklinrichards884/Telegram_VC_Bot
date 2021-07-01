@@ -1,9 +1,6 @@
 {
   "name": "Frankt",
   "description": "F",
-  "repository": "",
-  "logo": "",
-  "keywords": ['frank'],
   "stack": "heroku-20",
   "buildpacks": [
     {
