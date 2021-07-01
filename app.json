@@ -1,29 +1,16 @@
 {
-  "name": "Telegram Voice Chat Bot",
-  "description": "Telegram Voice-Chat Bot Written In Python Using Pytgcalls & Pyrogram.",
-  "repository": "https://github.com/thehamkercat/Telegram_VC_Bot",
-  "logo": "https://i.imgur.com/8S8NVy0.png",
-  "keywords": [
-    "python",
-    "telegram",
-    "bot",
-    "voicechat",
-    "youtube",
-    "telegram-bot",
-    "pyrogram",
-    "pytgcalls",
-    "tgcalls",
-    "jiosaavn",
-    "telegram-vcbot",
-    "telegram-musicbot"
-  ],
+  "name": "Frankt",
+  "description": "F",
+  "repository": "",
+  "logo": "",
+  "keywords": ['frank'],
   "stack": "heroku-20",
   "buildpacks": [
     {
       "url": "heroku/python"
     },
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+      "url": "https://github.com/franklinrichards884/heroku-buildpack-ffmpeg-latest.git"
     }
   ],
   "env": {
